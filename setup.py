@@ -5,7 +5,7 @@ long_description = pathlib.Path("README.md").read_text(encoding="utf-8")
 description = "ptnet Python package"
 
 setup(
-    name="ptnet",
+    name="cunf-ptnet-py3",
     description=description,
     long_description=long_description,
     url="https://github.com/fpom/cunf-ptnet-py3",
